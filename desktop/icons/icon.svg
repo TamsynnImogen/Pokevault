@@ -1,0 +1,7 @@
+<!-- Original geometric vault mark. No Pokemon or Nintendo artwork is used. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect x="4" y="4" width="120" height="120" rx="26" fill="#172a36"/>
+  <path d="M64 20 108 64 64 108 20 64Z" fill="#72d6b3"/>
+  <rect x="43" y="43" width="42" height="42" rx="9" fill="#172a36"/>
+  <circle cx="64" cy="64" r="9" fill="#f2d48e"/>
+</svg>

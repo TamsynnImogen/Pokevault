@@ -1,0 +1,41 @@
+/target/
+*.sqlite*
+/local/
+/ui/node_modules/
+/ui/dist/
+/desktop/gen/
+
+# User-owned game images and battery/savestate data stay on the user's machine.
+*.gb
+*.gbc
+*.gba
+*.nds
+*.3ds
+*.cia
+*.rom
+*.bios
+*.sav
+*.srm
+*.dsv
+*.sa1
+*.sa2
+*.rtc
+*.state
+*.state[0-9]*
+*.ss[0-9]*
+
+# Native cores/build products are not part of this source distribution.
+*.so
+*.so.*
+*.dll
+*.dylib
+*.exe
+*.AppImage
+
+# Local credentials and editor files are never publication inputs.
+.env
+.env.*
+!.env.example
+.DS_Store
+*.swp
+*.swo
